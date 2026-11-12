@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/INTERACTIVE_SIMULATOR-SOLDIEROPS-101010?style=for-the-badge&labelColor=050805&color=00FF41" alt="SoldierOps"/>
+  <img src="https://img.shields.io/badge/BROWSER_APP-JAVASCRIPT-101010?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
+</p>
+
 # SoldierOps · Tactical Companion Unit
 
-A browser-based companion simulator combining resource management, attributes, personality, dialogue and progression in a terminal-inspired interface.
+Browser-based companion simulator combining resource management, attributes, personality, dialogue and progression in a terminal-inspired interface.
 
 <p align="center">
-  <a href="https://tzayadet.github.io/SoldierOps/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
-  <a href="https://github.com/tzayadet/SoldierOps"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+  <a href="https://tzayadet.github.io/SoldierOps/"><strong>LIVE DEMO ↗</strong></a> ·
+  <a href="https://github.com/tzayadet/SoldierOps"><strong>SOURCE CODE</strong></a>
 </p>
 
 [![Pages deployment](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml)
