@@ -1,5 +1,7 @@
 # SoldierOps · Tactical Companion Unit
 
+[![GitHub Pages](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml)
+
 Simulador interactivo de una unidad compañera TCU-01. Combina gestión de recursos, atributos, personalidad, diálogo, progresión y operaciones dentro de una interfaz inspirada en terminales tácticos.
 
 **Demo:** https://tzayadet.github.io/SoldierOps/  
