@@ -1,41 +1,42 @@
 # SoldierOps · Tactical Companion Unit
 
-[![GitHub Pages](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml)
+A browser-based companion simulator combining resource management, attributes, personality, dialogue and progression in a terminal-inspired interface.
 
-Simulador interactivo de una unidad compañera TCU-01. Combina gestión de recursos, atributos, personalidad, diálogo, progresión y operaciones dentro de una interfaz inspirada en terminales tácticos.
+<p align="center">
+  <a href="https://tzayadet.github.io/SoldierOps/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
+  <a href="https://github.com/tzayadet/SoldierOps"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+</p>
 
-**Demo:** https://tzayadet.github.io/SoldierOps/  
-**Código:** https://github.com/tzayadet/SoldierOps
+[![Pages deployment](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml)
 
-## Funcionalidades
+## Features
 
-- Estado de la unidad, rango, experiencia y recursos.
-- Atributos de stamina, moral, disciplina, estrés y fatiga.
-- Sistema de personalidad, estados de ánimo y diálogo contextual.
-- Alimentación, entrenamiento, descanso y habilidades.
-- Inventario, mercado, base y gestión de escuadra.
-- Misiones, registros y progresión.
-- Guardados locales, ranuras y copias de seguridad.
-- Importación y exportación JSON.
+- Unit status, rank, experience and resources.
+- Stamina, morale, discipline, stress and fatigue attributes.
+- Personality, mood states and contextual dialogue.
+- Feeding, training, rest and skills.
+- Inventory, market, base and squad management.
+- Missions, logs and progression.
+- Local save slots and JSON backup/import/export.
 
-## Ejecución
+## Use it
 
-Aplicación estática. Abre `index.html` o utiliza la demo publicada mediante GitHub Pages.
+Open the [live demo](https://tzayadet.github.io/SoldierOps/) or run `index.html` locally in a modern browser.
 
-El progreso se guarda en el navegador mediante localStorage. Los datos no se sincronizan con un servidor ni con otros dispositivos. Exporta una copia JSON antes de borrar los datos del navegador.
+Progress is stored in localStorage and is not synchronised with a server or other devices. Export a JSON backup before clearing browser data.
 
-## Tecnologías
+## Technology
 
-- HTML5
-- CSS3
-- JavaScript
-- Web Audio API
-- localStorage
+HTML5, CSS3, JavaScript, Web Audio API and localStorage.
 
-## Alcance
+## Scope
 
-Es un simulador lúdico y experimental. Los términos, interfaces y elementos tácticos son parte de la ambientación; no representa un sistema militar operativo ni una herramienta de mando y control.
+A recreational and experimental simulator. Tactical terminology and interface elements are part of the setting; the project is not an operational military system or command-and-control tool.
 
-## Licencia
+## Deployment
 
-Consulta [LICENSE](LICENSE).
+Static application published through GitHub Pages.
+
+## License
+
+See [LICENSE](LICENSE) for the repository's licensing terms.
