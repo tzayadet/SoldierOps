@@ -14,6 +14,8 @@ Browser-based companion simulator combining resource management, attributes, per
 
 [![Pages deployment](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/SoldierOps/actions/workflows/jekyll-gh-pages.yml)
 
+[![Quality checks](https://github.com/tzayadet/SoldierOps/actions/workflows/quality.yml/badge.svg)](https://github.com/tzayadet/SoldierOps/actions/workflows/quality.yml)
+
 ## Features
 
 - Unit status, rank, experience and resources.
